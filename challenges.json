@@ -1,0 +1,27 @@
+[
+    {
+        "type" : "body",
+        "description" : "Alongue seu braço bastante",
+        "amount": 80
+    },
+    {
+        "type" : "body",
+        "description" : "Alongue sua perna bastante",
+        "amount": 80
+    },
+    {
+        "type" : "body",
+        "description" : "Alongue seu pescoço bastante",
+        "amount": 80
+    },
+    {
+        "type" : "eye",
+        "description" : "Feche seu olho bastante",
+        "amount": 80
+    },
+    {
+        "type" : "body",
+        "description" : "Balence seu braço bastante",
+        "amount": 80
+    }
+]
