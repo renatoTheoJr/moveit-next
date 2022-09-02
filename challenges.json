@@ -1,27 +1,32 @@
 [
     {
         "type" : "body",
-        "description" : "Alongue seu braço bastante",
-        "amount": 80
+        "description" : "Alongamento peitoral.",
+        "amount": 100
     },
     {
         "type" : "body",
-        "description" : "Alongue sua perna bastante",
-        "amount": 80
+        "description" : "Alongue o pescoço",
+        "amount": 30
     },
     {
         "type" : "body",
-        "description" : "Alongue seu pescoço bastante",
-        "amount": 80
+        "description" : "Flexione os seus tornozelos",
+        "amount": 40
+    },
+    {
+        "type" : "body",
+        "description" : "Alongue as panturrilhas",
+        "amount": 30
     },
     {
         "type" : "eye",
-        "description" : "Feche seu olho bastante",
-        "amount": 80
+        "description" : "Fique um tempo longe de telas",
+        "amount": 100
     },
     {
         "type" : "body",
-        "description" : "Balence seu braço bastante",
-        "amount": 80
+        "description" : "Alongue os braço",
+        "amount": 20
     }
 ]
